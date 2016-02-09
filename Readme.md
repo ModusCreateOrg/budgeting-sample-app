@@ -1,6 +1,6 @@
-# React + Redux for training
+# Budgeting - React + Redux Sample App
 
-Clean React + Redux setup for training purposes. No UI. 
+Sample app demonstrating the power and simplicity of React, Redux, and Webpack.
 
 ## Contains
 
@@ -19,6 +19,12 @@ $ npm install
 
 ```
 $ npm start
+```
+
+## Build
+
+```
+$ npm run build
 ```
 
 # License
